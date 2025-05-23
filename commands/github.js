@@ -3,7 +3,6 @@ async function githubCommand(sock, chatId) {
 
 *📂 GitHub Repository:*
 https://github.com/muhammadsajidkhanol/Knightbot-MD
-
 *📢 Official Channel:*
 https://whatsapp.com/channel/0029VbAZuFFCBtxLljSGkS05
 _Star ⭐ the repository if you like the bot!_`;
