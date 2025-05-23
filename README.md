@@ -10,7 +10,7 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
 
 <div align="center"> 
   <a href="https://youtube.com/@mr_unique_hacker"> 
-    <img src="https://github.com/mruniquehacker/king-MD/blob/main/assets/bot_image.jpg" alt="DOLLAR Bot" height="300"> 
+    <img src="https://github.com/muhammadsajidkhanol/Knightbot-MD/blob/main/assets/bot_image.jpg" alt="DOLLAR Bot" height="300"> 
   </a> 
 </div>
 
