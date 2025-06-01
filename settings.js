@@ -2,8 +2,8 @@ const settings = {
   packname: 'PUBG DOLLAR WOW',
   author: '‎',
   botName: "DOLLAR",
-  botOwner: 'DOLLAR', // Your name
-  ownerNumber: '923404469538', //Set your number here without + symbol, just add country code & number without any space
+  botOwner: 'NOMI', // Your name
+  ownerNumber: '12632003961', //Set your number here without + symbol, just add country code & number without any space
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: "public",
   description: "This is a bot for managing group commands and automating tasks.",
