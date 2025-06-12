@@ -5,14 +5,14 @@ const path = require('path');
 async function helpCommand(sock, chatId, channelLink) {
     const helpMessage = `
 ╔═══════════════════╗
-   *🤖 ${settings.botName || 'KnightBot-MD'}*  
+   *🤖 ${settings.botName || 'dollar'}*  
    Version: *${settings.version || '1.0.0'}*
-   by ${settings.botOwner || 'Mr Unique Hacker'}
+   by ${settings.botOwner || 'dollar'}
    YT : ${global.ytch}
 ╚═══════════════════╝
 
 *Available Commands:*
-
+https://whatsapp.com/channel/0029VbAZuFFCBtxLljSGkS05
 ╔═══════════════════╗
 🌐 *General Commands*:
 ║ ➤ .help or .menu
@@ -149,7 +149,7 @@ async function helpCommand(sock, chatId, channelLink) {
 
 Join our channel for updates:`;
 
-    try {
+    try {https:
         const imagePath = path.join(__dirname, '../assets/bot_image.jpg');
         
         if (fs.existsSync(imagePath)) {
@@ -162,8 +162,8 @@ Join our channel for updates:`;
                     forwardingScore: 1,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363161513685998@newsletter',
-                        newsletterName: 'KnightBot MD by Mr Unique Hacker',
+                        newsletterJid: 'https://whatsapp.com/channel/0029VbAZuFFCBtxLljSGkS05',
+                        newsletterName: 'https://whatsapp.com/channel/0029VbAZuFFCBtxLljSGkS05',
                         serverMessageId: -1
                     }
                 }
@@ -176,8 +176,8 @@ Join our channel for updates:`;
                     forwardingScore: 1,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363161513685998@newsletter',
-                        newsletterName: 'KnightBot MD by Mr Unique Hacker',
+                        newsletterJid: 'https://whatsapp.com/channel/0029VbAZuFFCBtxLljSGkS05',
+                        newsletterName: 'https://whatsapp.com/channel/0029VbAZuFFCBtxLljSGkS05',
                         serverMessageId: -1
                     } 
                 }
