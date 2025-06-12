@@ -6,7 +6,7 @@ async function helpCommand(sock, chatId, channelLink) {
     const helpMessage = `
 ╔═══════════════════╗
    *🤖 ${settings.botName || 'dollar'}*  
-   Version: *${settings.version || '1.0.0'}*
+   Version: *${settings.version || '2.0.0'}*
    by ${settings.botOwner || 'dollar'}
    YT : ${global.ytch}
 ╚═══════════════════╝
